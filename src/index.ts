@@ -6,3 +6,4 @@ const a1 = 1;
 const a2 = 20;
 const a3 = 30;
 const a5 = 20;
+const a6 = 30;
